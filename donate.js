@@ -1,5 +1,5 @@
-exports.donate = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
-	return `🔰 -----[ *MENU DONASI ${BotName}* ]----- 🔰
+exports.donate = (id, BotZxal, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
+	return `🔰 -----[ *MENU DONASI ${BotZxal}* ]----- 🔰
   
 Hi, *${id.split("@s.whatsapp.net")[0]}* 👋️
 Mau donasi? 
@@ -9,10 +9,10 @@ Mau donasi?
 
 ♻ Silahkan donasi dibawah ini :
    
-⚜ *OVO*: 0895-2325-8649
-⚜ *DANA*: 0895-2325-8649
-⚜ *PULSA*: 0895-2325-8649
-⚜ *GOPAY*: 0895-2325-8649
+
+⚜ *DANA*: 0857-8984-3218
+⚜ *PULSA*: 0857-8984-3218
+
 
 📺 *Iklan* :
 
@@ -27,7 +27,7 @@ Mau donasi?
 
 ♻️ _TETAP JAGA KESEHATAN DAN SELALU PAKAI MASKER!_
 
-♻️ Mau pasang iklan di *${BotName} ?*
+♻️ Mau pasang iklan di *${BotZxal} ?*
 ☎️ WA : *${whatsapplu}*
   
 ⚠️ Gunakan dengan bijak ‼️
@@ -38,5 +38,5 @@ Mau donasi?
 ✳️ Official Grub [2] : ${grupch2}
 
   
-🔰 -----[ *POWERED BY ${BotName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${BotZxal}* ]----- 🔰`
 }
