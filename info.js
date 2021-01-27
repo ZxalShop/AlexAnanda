@@ -1,5 +1,5 @@
-exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
-	return `🔰 -----[ *MENU ${BotName}* ]----- 🔰
+exports.info = (id, BotZxal, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
+	return `🔰 -----[ *MENU ${BotZxal}* ]----- 🔰
   
 Hi, *${id.split("@s.whatsapp.net")[0]}* 👋️
 Berikut adalah info pada bot ini!✨
@@ -10,7 +10,7 @@ Berikut adalah info pada bot ini!✨
 🔴 INFO BOT! :
 
 => *AUTHOR*: ./MrG3P5
-=> *YOUTUBE*: X - MrG3P5
+=> *YOUTUBE*: BoY Zxal
 
 🔴 INFO LAIN! :
 
@@ -33,7 +33,7 @@ SCRIPT DIBUAT DENGAN BAHASA PEMROGRAMAN NODE.JS
 
 ♻️ _TETAP JAGA KESEHATAN DAN SELALU PAKAI MASKER!_
 
-♻️ Mau pasang iklan di *${BotName} ?*
+♻️ Mau pasang iklan di *${BotZxal} ?*
 ☎️ WA : *${whatsapplu}*
   
 ⚠️ Gunakan dengan bijak ‼️
