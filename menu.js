@@ -1,5 +1,5 @@
-exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
-	return `🔰 -----[ *MENU ${BotName}* ]----- 🔰
+exports.menu = (id, BotZxal, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
+	return `🔰 -----[ *MENU ${BoZxal}* ]----- 🔰
   
 Hi, ${id.split("@s.whatsapp.net")[0]} 👋️
 Berikut adalah beberapa fitur yang ada pada bot ini!✨
@@ -105,7 +105,7 @@ Contoh: #wiki anjing
 
 ♻️ _TETAP JAGA KESEHATAN DAN SELALU PAKAI MASKER!_
 
-♻️ Mau pasang iklan di *${BotName} ?*
+♻️ Mau pasang iklan di *${BotZxal} ?*
 ☎️ WA : *${whatsapplu}*
   
 ⚠️ Gunakan dengan bijak ‼️
@@ -116,5 +116,5 @@ Contoh: #wiki anjing
 ✅Official Grub [2] : ${grupch2}
 
   
-🔰 -----[ *POWERED BY ${BotName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${BotZxal}* ]----- 🔰`
 }
